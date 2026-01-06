@@ -13,7 +13,7 @@ Hansung University, Seoul, Republic of Korea</br>
 Department of Electrical and Electronic Engineering</br>
 </div>
 
-<h3 align="center">🟩Certification🟩</h3>
+<h3 align="center">🟩Stacks🟩</h3>
 <div align="center">
 </div>      
 <div align="center">
