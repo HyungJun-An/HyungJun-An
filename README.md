@@ -15,8 +15,6 @@ Department of Electrical and Electronic Engineering</br>
 
 <h3 align="center">🟩Certification🟩</h3>
 <div align="center">
-~ING</br>
-정보처리기사 필기 (2024.03.13)</br>
 </div>      
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
