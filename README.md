@@ -39,7 +39,7 @@ Department of Electrical and Electronic Engineering</br>
 
 <h3 align="center">🟪Contact🟪</h3>
 <div align="center">
-<a href="https://www.notion.so/2b13b33de45a801e9d73e4005d03f45d?pvs=94">
+<a href="https://cuddly-postbox-17f.notion.site/2b13b33de45a801e9d73e4005d03f45d?pvs=74">
 <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
 </a>
 <a href="wns1265@gmail.com">
