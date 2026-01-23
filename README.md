@@ -39,8 +39,8 @@ Department of Electrical and Electronic Engineering</br>
 
 <h3 align="center">🟪Contact🟪</h3>
 <div align="center">
-<a href="https://blog.naver.com/hyung1265">
-<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+<a href="https://www.notion.so/2b13b33de45a801e9d73e4005d03f45d?pvs=94">
+<img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
 </a>
 <a href="wns1265@gmail.com">
 <img src="https://img.shields.io/badge/wns1265@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
