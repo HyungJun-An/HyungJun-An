@@ -48,6 +48,6 @@ Department of Electrical and Electronic Engineering</br>
 </div>
 </br>
 <div align="center">
-  <img src="https://github.com/HyungJun-An/HyungJun-An/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/HyungJun-An/HyungJun-An/blob/output/github-snake-dark.svg" width="100%">
 </div>
 
