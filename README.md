@@ -7,7 +7,7 @@
 <!--![HyungJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=radical) -->
 <hr>
 
-- 안녕하세요! `배포 자동화` 와 `Backend 개발`에 깊은 관심을 갖고 있으며 공부하며 성장하고 있는 안형준입니다.
+- 안녕하세요! `배포 자동화` 와 `Backend 개발`에 깊은 관심을 갖고 있으며 공부하며 성장하고 있는 개발자 안형준입니다.
 - **객체지향원칙(SOLID)** 을 준수하며 개발하는데 열정을 쏟습니다.
 - `CI/CD 파이프라인 최적화`, `컨테이너화` 와 같이 최신 기술을 공부하여 보다 안정적이고, 확장가능한 시스템을 만드는데 집중하고 있습니다.
 
