@@ -28,7 +28,7 @@
 
 # 🤖AI + Web
   - ## AI피팅기능 쇼핑몰 <a href="https://github.com/HyungJun-An/Lookfit">[LookFit]</a> ~ing
-    - 기술 스택: Java, Spring Boot, Spring Security, React, Grafana, ElasticSearch, Docker, MySQL, Redis, JPA
+    - 기술 스택: Java, Spring Boot, Spring Security, React, ElasticSearch, Docker, MySQL, JPA
 <br>
 
 # 💻 Web
