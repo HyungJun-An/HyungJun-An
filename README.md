@@ -3,16 +3,20 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%95%88%ED%98%95%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a><br>
 
-<a href="https://solved.ac/profile/wns1265"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac wns1265"></a>
+<a href="https://solved.ac/profile/wns1265"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wns1265" alt="solved.ac wns1265">
+</a>
+<br>
 <!--![HyungJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJun-An&show_icons=true&theme=radical) -->
 <hr>
+
+![Profile views](https://counter.kuber.studio/HyungJun-An/hacker/count.svg)
 
 - 안녕하세요! `배포 자동화` 와 `Backend 개발`에 깊은 관심을 갖고 있으며 공부하며 성장하고 있는 개발자 안형준입니다.
 - **객체지향원칙(SOLID)** 을 준수하며 개발하는데 열정을 쏟습니다.
 - `CI/CD 파이프라인 최적화`, `컨테이너화` 와 같이 최신 기술을 공부하여 보다 안정적이고, 확장가능한 시스템을만드는데 관심이 있습니다.
 
-# ⚡️Tech Stack
 
+# ⚡️Tech Stack
 | **Category** | **Technologies** |
 |-|-|
 | **Programming Languages 🌐** |<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>|
@@ -46,7 +50,6 @@
 <div align="center">
   <img src="https://github.com/HyungJun-An/HyungJun-An/blob/output/github-snake-dark.svg" width="100%">
 </div>
-
 <div align="center">
 <a href="https://cuddly-postbox-17f.notion.site/2b13b33de45a801e9d73e4005d03f45d?pvs=74">
 <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
